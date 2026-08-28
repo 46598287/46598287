@@ -1,16 +1,25 @@
-## Hi there 👋
+¡Hola! Soy Franco Leandro Gutiérrez 👋
+Sobre mí
 
-<!--
-**46598287/46598287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería Informática, interesado en la programación y el desarrollo web.
 
-Here are some ideas to get you started:
+También soy diseñador de moda y dirijo una empresa dedicada a la fabricación de indumentaria. Esta experiencia me permite combinar creatividad, producción, organización y tecnología para resolver problemas reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy aprendiendo
+Fundamentos de programación
+Python
+Desarrollo web
+Linux y línea de comandos
+Git y GitHub
+Mis intereses
+Programación y desarrollo de software
+Desarrollo web
+Inteligencia artificial
+Aplicación de tecnología en procesos productivos
+Diseño y fabricación de indumentaria
+
+Tengo experiencia práctica utilizando herramientas de inteligencia artificial como apoyo para el aprendizaje, el diseño, la organización y la resolución de problemas.
+
+Objetivos
+
+Seguir desarrollando mis conocimientos en informática y crear proyectos que integren tecnología, diseño y producción.
